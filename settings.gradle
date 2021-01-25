@@ -1,0 +1,3 @@
+include ':myUtils'
+include ':app'
+rootProject.name = "CircularImage"
