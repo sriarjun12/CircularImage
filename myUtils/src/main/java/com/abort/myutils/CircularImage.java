@@ -1,5 +1,4 @@
-package com.abort.circularimage;
-
+package com.abort.myutils;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -495,4 +494,5 @@ public class CircularImage extends ImageView {
 
 
 }
+
 
